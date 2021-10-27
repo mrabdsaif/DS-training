@@ -1,5 +1,5 @@
 
-## ***What is an API means ?***
+# ***What is an API means ?***
 
 - API is the acronym for **application programming interface**.
 -  It is a software intermediary that allows two applications to talk or to interact to each other.
