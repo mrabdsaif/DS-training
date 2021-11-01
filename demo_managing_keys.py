@@ -10,3 +10,4 @@ print(password)
 # such as Azure .
 # In Azure when you deployed your app, you can go for the web service and go to configuration and you will see key value pairs the names are displayed 
 # but the values are hidden.
+
